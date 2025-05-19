@@ -1,4 +1,4 @@
-# Perfil de Usuario React Native con Firebase
+# Mi Comida Favorita
 
 Este proyecto es un componente React Native que permite visualizar y actualizar el perfil de usuario utilizando Firebase Authentication y Firestore.
 
@@ -37,4 +37,8 @@ Este proyecto es un componente React Native que permite visualizar y actualizar 
 2. Manejo de errores: Alertas para notificar problemas en carga, actualización o cierre de sesión.
 
 3. Deshabilitar botones: Botones de actualización y cierre de sesión deshabilitados durante las operaciones para evitar múltiples acciones simultáneas.
+
+## Screenshots
+
+![Login](./assets/login.jpg)
 
