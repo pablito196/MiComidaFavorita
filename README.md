@@ -42,9 +42,28 @@ Este proyecto es un componente React Native que permite visualizar y actualizar 
 
 ### Login
 
-<img src="./assets/login.jpg" alt="Login" width="400"/>
+<img src="./assets/login.jpg" alt="Login" width="300"/>
 
 ### Boton deshabilitado en login
 
-<img src="./assets/login1.jpg" alt="Login" width="400"/>
+<img src="./assets/login1.jpg" alt="Login" width="300"/>
 
+### Perfil de usuario
+
+<img src="./assets/perfil.jpg" alt="Login" width="300"/>
+
+### Perfil actualizado
+
+<img src="./assets/perfilactualizado.jpg" alt="Login" width="300"/>
+
+### Mensaje de actualizacion de perfil
+
+<img src="./assets/perfilmensaje.jpg" alt="Login" width="300"/>
+
+### Spinner cargando perfil
+
+<img src="./assets/spinnercargando.jpg" alt="Login" width="300"/>
+
+### Validaciones en el registro
+
+<img src="./assets/validacionregistro.jpg" alt="Login" width="300"/>
