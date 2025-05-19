@@ -40,5 +40,11 @@ Este proyecto es un componente React Native que permite visualizar y actualizar 
 
 ## Screenshots
 
-![Login](./assets/login.jpg)
+### Login
+
+<img src="./assets/login.jpg" alt="Login" width="400"/>
+
+### Boton deshabilitado en login
+
+<img src="./assets/login1.jpg" alt="Login" width="400"/>
 
